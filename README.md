@@ -4,4 +4,4 @@ hello world
 yes
 no
 
-![Build](https://github.com/mannatgupta146/b28.p/actions/workflows/clock.yaml/badge.svg)
+![Build](https://github.com/mannatgupta146/actions/workflows/clock.yaml/badge.svg)
